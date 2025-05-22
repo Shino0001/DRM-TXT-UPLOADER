@@ -1,5 +1,5 @@
 import os
 
-API_ID = os.environ.get("API_ID", "24473318") #Replace With your api id
-API_HASH = os.environ.get("API_HASH", "e7dd0576c5ac0ff8f90971d6bb04c8f5") #Replace With your api hash
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "7874891741:AAEaHvTdZYvgKkv0RTSCzrFe7ZBoOZaik50") #Replace With your bot token
+API_ID = os.environ.get("API_ID", "27049009") #Replace With your api id
+API_HASH = os.environ.get("API_HASH", "fdbb025703492ee68251614682e2b4d3") #Replace With your api hash
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "7826158452:AAFfrFUvchdYL2-_7AMjpdaVgOSAolgFqdc") #Replace With your bot token
